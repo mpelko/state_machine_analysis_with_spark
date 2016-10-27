@@ -1,0 +1,7 @@
+target/
+.svn/
+.DS_Store
+.project
+.classpath
+.idea/
+data.txt
