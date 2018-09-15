@@ -40,6 +40,6 @@ partial_result = (logData.map(lambda x: x.split(" "))
 
 changes = clean_up(partial_result)
 print("\nLast 20 transitions:")
-print(changes[-20:])
+print(changes[-25:])
 print("\nNumber of transitions found:")
 print(len(changes))
